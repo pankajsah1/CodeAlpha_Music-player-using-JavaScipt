@@ -1,4 +1,16 @@
-# CodeAlpha_Music-player-using-JavaScipt
+@Music Player Web App
 
-this is a Music player application i made for code-alpha internship.
-and this application build in HTML , CSS and Java-Script
+A simple music player web application built using HTML, CSS, and JavaScript as part of an internship task. It allows users to play and control audio with a clean and interactive interface.
+
+#Features
+Play and pause functionality
+Next and previous track controls
+Playlist support
+Volume control
+Displays song name and artist name
+Responsive user interface
+
+#Tech Stack
+HTML
+CSS
+JavaScript
